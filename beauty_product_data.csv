@@ -1,0 +1,501 @@
+age,gender,skin_tone,skin_type,skin_problem,sensitivity,climate,product_type,brand,ingredients_type,price_range,recommended_product
+38,Female,Medium,Combination,None,Yes,Dry,Face Wash,Minimalist,Natural,Premium,Acne Control Face Wash
+29,Male,Fair,Oily,Wrinkles,Yes,Moderate,Moisturizer,Minimalist,Natural,Mid,Niacinamide Serum
+20,Female,Medium,Combination,Dryness,Yes,Dry,Moisturizer,Cetaphil,Natural,Budget,Salicylic Acid Cleanser
+24,Male,Fair,Normal,Wrinkles,No,Humid,Face Cream,Nivea,Chemical,Budget,Niacinamide Serum
+30,Female,Medium,Dry,Dullness,No,Dry,Moisturizer,Minimalist,Chemical,Budget,Hydrating Face Cream
+29,Female,Medium,Normal,Acne,Yes,Moderate,Face Wash,Neutrogena,Natural,Premium,Vitamin C Serum
+27,Female,Medium,Normal,Dryness,Yes,Cold,Face Cream,Minimalist,Natural,Mid,Hydrating Face Cream
+44,Female,Fair,Dry,Acne,No,Dry,Moisturizer,The Ordinary,Chemical,Premium,Acne Control Face Wash
+34,Male,Dark,Combination,Acne,No,Humid,Moisturizer,Nivea,Natural,Budget,Acne Control Face Wash
+41,Male,Dark,Dry,Pigmentation,No,Humid,Face Cream,Plum,Natural,Budget,Salicylic Acid Cleanser
+18,Male,Medium,Combination,Dryness,Yes,Cold,Serum,Plum,Chemical,Budget,Vitamin C Serum
+35,Male,Medium,Oily,Pigmentation,Yes,Cold,Face Wash,Cetaphil,Natural,Premium,Oil Free Moisturizer
+26,Female,Fair,Dry,Acne,Yes,Dry,Serum,Lakme,Chemical,Premium,Salicylic Acid Cleanser
+24,Male,Medium,Normal,Wrinkles,Yes,Cold,Serum,Plum,Natural,Mid,Vitamin C Serum
+35,Male,Fair,Combination,Pigmentation,No,Hot,Moisturizer,Nivea,Chemical,Premium,Anti Aging Cream
+41,Female,Fair,Normal,None,Yes,Cold,Serum,The Ordinary,Chemical,Budget,Anti Aging Cream
+28,Female,Medium,Combination,Acne,No,Moderate,Moisturizer,The Ordinary,Chemical,Premium,Salicylic Acid Cleanser
+31,Male,Fair,Dry,Dryness,No,Hot,Moisturizer,Minimalist,Chemical,Budget,Salicylic Acid Cleanser
+34,Male,Dark,Normal,Acne,Yes,Humid,Face Wash,Cetaphil,Chemical,Budget,Vitamin C Serum
+26,Male,Fair,Dry,Dryness,Yes,Cold,Face Cream,Cetaphil,Chemical,Premium,Vitamin C Serum
+25,Male,Fair,Combination,Wrinkles,Yes,Cold,Serum,Cetaphil,Chemical,Premium,Hydrating Face Cream
+44,Male,Dark,Oily,Acne,No,Dry,Serum,Lakme,Natural,Premium,Vitamin C Serum
+37,Male,Dark,Combination,Dullness,No,Dry,Moisturizer,Lakme,Natural,Mid,Salicylic Acid Cleanser
+30,Female,Medium,Dry,Dullness,Yes,Dry,Moisturizer,The Ordinary,Chemical,Budget,Niacinamide Serum
+42,Female,Fair,Combination,Acne,Yes,Dry,Face Cream,Minimalist,Chemical,Premium,Vitamin C Serum
+24,Male,Fair,Normal,Dullness,No,Dry,Moisturizer,Plum,Chemical,Premium,Oil Free Moisturizer
+24,Male,Medium,Dry,Dryness,Yes,Humid,Face Cream,The Ordinary,Chemical,Mid,Hydrating Face Cream
+27,Female,Fair,Combination,Wrinkles,No,Hot,Face Cream,Minimalist,Natural,Budget,Vitamin C Serum
+33,Female,Dark,Normal,None,Yes,Hot,Moisturizer,The Ordinary,Natural,Mid,Niacinamide Serum
+18,Female,Dark,Dry,Dryness,Yes,Hot,Face Cream,Neutrogena,Chemical,Premium,Hydrating Face Cream
+37,Male,Medium,Normal,Wrinkles,No,Humid,Face Cream,The Ordinary,Chemical,Mid,Vitamin C Serum
+31,Female,Fair,Combination,Pigmentation,No,Cold,Serum,Minimalist,Chemical,Premium,Acne Control Face Wash
+34,Male,Fair,Combination,Dryness,Yes,Dry,Moisturizer,Nivea,Natural,Premium,Vitamin C Serum
+38,Female,Fair,Oily,Acne,Yes,Dry,Face Wash,The Ordinary,Natural,Premium,Anti Aging Cream
+40,Male,Dark,Oily,Dullness,No,Cold,Face Wash,Cetaphil,Natural,Mid,Salicylic Acid Cleanser
+41,Male,Fair,Oily,Dullness,Yes,Moderate,Serum,Minimalist,Natural,Budget,Niacinamide Serum
+19,Male,Dark,Combination,Dullness,No,Humid,Moisturizer,Neutrogena,Natural,Budget,Salicylic Acid Cleanser
+43,Male,Fair,Oily,Pigmentation,Yes,Cold,Face Cream,Neutrogena,Chemical,Budget,Niacinamide Serum
+30,Female,Dark,Combination,Acne,Yes,Dry,Moisturizer,Lakme,Natural,Mid,Salicylic Acid Cleanser
+43,Female,Medium,Combination,Dryness,No,Hot,Face Cream,The Ordinary,Natural,Mid,Vitamin C Serum
+18,Male,Medium,Oily,Pigmentation,No,Humid,Face Cream,Plum,Natural,Premium,Hydrating Face Cream
+29,Female,Medium,Dry,Dullness,No,Moderate,Face Wash,Cetaphil,Chemical,Mid,Salicylic Acid Cleanser
+40,Female,Fair,Combination,Pigmentation,No,Dry,Serum,Minimalist,Chemical,Premium,Hydrating Face Cream
+44,Female,Fair,Dry,None,No,Humid,Face Wash,The Ordinary,Chemical,Premium,Niacinamide Serum
+29,Male,Medium,Oily,Acne,Yes,Humid,Moisturizer,Plum,Chemical,Mid,Acne Control Face Wash
+36,Male,Dark,Oily,Dryness,No,Hot,Face Cream,Plum,Natural,Premium,Oil Free Moisturizer
+35,Male,Medium,Combination,Pigmentation,No,Moderate,Serum,Minimalist,Natural,Mid,Acne Control Face Wash
+28,Male,Fair,Combination,Wrinkles,No,Dry,Serum,Neutrogena,Natural,Premium,Vitamin C Serum
+35,Female,Medium,Normal,Dullness,No,Hot,Serum,Lakme,Natural,Mid,Hydrating Face Cream
+40,Male,Medium,Dry,Wrinkles,Yes,Moderate,Face Wash,Neutrogena,Chemical,Budget,Oil Free Moisturizer
+30,Female,Medium,Dry,Dullness,Yes,Cold,Face Wash,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+26,Male,Dark,Dry,Dullness,Yes,Dry,Serum,The Ordinary,Chemical,Budget,Salicylic Acid Cleanser
+23,Male,Fair,Dry,None,No,Cold,Serum,Cetaphil,Chemical,Budget,Anti Aging Cream
+29,Female,Medium,Dry,Dryness,No,Cold,Face Cream,Neutrogena,Chemical,Budget,Vitamin C Serum
+42,Female,Dark,Normal,None,Yes,Humid,Moisturizer,Lakme,Natural,Mid,Acne Control Face Wash
+35,Male,Fair,Normal,Pigmentation,No,Dry,Serum,Neutrogena,Natural,Budget,Salicylic Acid Cleanser
+44,Male,Fair,Oily,None,Yes,Humid,Serum,Lakme,Natural,Premium,Vitamin C Serum
+33,Female,Dark,Combination,Acne,No,Moderate,Moisturizer,Neutrogena,Chemical,Premium,Anti Aging Cream
+23,Male,Medium,Dry,Dryness,Yes,Hot,Face Wash,Minimalist,Natural,Budget,Salicylic Acid Cleanser
+20,Male,Fair,Normal,Pigmentation,Yes,Moderate,Face Cream,Lakme,Natural,Premium,Anti Aging Cream
+25,Female,Dark,Oily,Pigmentation,No,Dry,Moisturizer,Cetaphil,Natural,Mid,Vitamin C Serum
+22,Female,Medium,Normal,Acne,Yes,Humid,Moisturizer,Neutrogena,Natural,Mid,Salicylic Acid Cleanser
+42,Female,Fair,Dry,Dryness,No,Dry,Face Wash,Plum,Natural,Premium,Acne Control Face Wash
+31,Female,Dark,Oily,Dullness,No,Hot,Moisturizer,Nivea,Natural,Mid,Niacinamide Serum
+25,Male,Medium,Combination,Wrinkles,Yes,Dry,Face Wash,Neutrogena,Natural,Premium,Vitamin C Serum
+18,Male,Medium,Normal,Wrinkles,Yes,Cold,Serum,Nivea,Chemical,Budget,Hydrating Face Cream
+37,Female,Dark,Normal,None,Yes,Dry,Face Wash,Plum,Natural,Mid,Niacinamide Serum
+26,Female,Dark,Combination,Wrinkles,No,Hot,Serum,Lakme,Chemical,Mid,Acne Control Face Wash
+39,Female,Dark,Combination,Acne,Yes,Cold,Moisturizer,The Ordinary,Chemical,Premium,Niacinamide Serum
+39,Male,Medium,Normal,Dryness,No,Hot,Face Cream,The Ordinary,Natural,Mid,Oil Free Moisturizer
+27,Female,Medium,Combination,Dullness,Yes,Cold,Face Cream,Cetaphil,Natural,Mid,Hydrating Face Cream
+35,Female,Medium,Oily,Wrinkles,Yes,Moderate,Face Cream,Nivea,Natural,Premium,Hydrating Face Cream
+29,Female,Fair,Combination,Dryness,No,Cold,Moisturizer,Cetaphil,Natural,Premium,Salicylic Acid Cleanser
+20,Female,Dark,Normal,None,Yes,Dry,Serum,Lakme,Natural,Mid,Salicylic Acid Cleanser
+20,Male,Fair,Combination,Acne,Yes,Cold,Face Wash,Neutrogena,Chemical,Mid,Hydrating Face Cream
+24,Male,Fair,Oily,Pigmentation,Yes,Moderate,Serum,Cetaphil,Natural,Budget,Anti Aging Cream
+31,Male,Dark,Normal,None,No,Dry,Moisturizer,The Ordinary,Chemical,Budget,Acne Control Face Wash
+27,Female,Fair,Normal,Dullness,Yes,Hot,Face Cream,Minimalist,Natural,Mid,Vitamin C Serum
+43,Male,Fair,Dry,Pigmentation,Yes,Cold,Face Cream,Nivea,Natural,Budget,Salicylic Acid Cleanser
+19,Male,Fair,Combination,Dryness,No,Hot,Face Wash,Lakme,Natural,Premium,Niacinamide Serum
+35,Female,Medium,Dry,None,No,Hot,Serum,Cetaphil,Natural,Mid,Oil Free Moisturizer
+20,Male,Medium,Dry,None,No,Hot,Moisturizer,Nivea,Chemical,Mid,Acne Control Face Wash
+19,Female,Medium,Combination,None,No,Moderate,Face Wash,Lakme,Natural,Premium,Vitamin C Serum
+29,Female,Dark,Combination,Dryness,Yes,Humid,Face Cream,Neutrogena,Natural,Premium,Oil Free Moisturizer
+19,Male,Dark,Combination,Pigmentation,No,Cold,Face Cream,Cetaphil,Natural,Budget,Niacinamide Serum
+44,Male,Fair,Oily,Acne,Yes,Dry,Moisturizer,Lakme,Chemical,Mid,Anti Aging Cream
+38,Male,Dark,Normal,Wrinkles,Yes,Humid,Face Wash,Minimalist,Chemical,Premium,Vitamin C Serum
+21,Female,Medium,Normal,Dullness,Yes,Humid,Face Wash,Lakme,Natural,Mid,Salicylic Acid Cleanser
+31,Female,Medium,Combination,Dullness,Yes,Hot,Serum,Nivea,Natural,Budget,Oil Free Moisturizer
+37,Female,Dark,Normal,Dryness,Yes,Dry,Moisturizer,Minimalist,Chemical,Premium,Niacinamide Serum
+44,Male,Medium,Dry,None,No,Humid,Serum,Lakme,Chemical,Premium,Acne Control Face Wash
+35,Male,Fair,Combination,Dullness,Yes,Hot,Face Wash,Cetaphil,Natural,Mid,Niacinamide Serum
+30,Female,Medium,Combination,Dryness,Yes,Humid,Face Wash,Plum,Natural,Premium,Salicylic Acid Cleanser
+33,Male,Fair,Combination,None,No,Moderate,Moisturizer,Minimalist,Natural,Mid,Oil Free Moisturizer
+33,Female,Medium,Normal,Wrinkles,No,Humid,Moisturizer,Minimalist,Chemical,Budget,Acne Control Face Wash
+37,Male,Medium,Combination,Dryness,Yes,Moderate,Serum,Minimalist,Natural,Budget,Niacinamide Serum
+26,Male,Fair,Normal,Acne,Yes,Humid,Face Wash,Nivea,Natural,Budget,Vitamin C Serum
+27,Male,Medium,Oily,Dryness,No,Moderate,Face Wash,Plum,Natural,Premium,Anti Aging Cream
+25,Male,Fair,Combination,None,Yes,Dry,Face Wash,The Ordinary,Chemical,Premium,Anti Aging Cream
+19,Male,Fair,Dry,Wrinkles,No,Humid,Face Wash,Plum,Chemical,Mid,Hydrating Face Cream
+27,Female,Medium,Normal,Acne,Yes,Cold,Face Wash,Cetaphil,Chemical,Mid,Hydrating Face Cream
+39,Female,Medium,Oily,Dryness,Yes,Humid,Face Wash,Neutrogena,Natural,Premium,Salicylic Acid Cleanser
+26,Female,Dark,Dry,Dullness,Yes,Hot,Face Cream,Cetaphil,Chemical,Premium,Hydrating Face Cream
+22,Male,Dark,Normal,None,No,Cold,Face Wash,Minimalist,Chemical,Premium,Oil Free Moisturizer
+24,Female,Fair,Dry,Dryness,Yes,Cold,Serum,Lakme,Natural,Mid,Anti Aging Cream
+35,Male,Dark,Oily,None,Yes,Moderate,Serum,Neutrogena,Chemical,Mid,Vitamin C Serum
+24,Female,Fair,Combination,Wrinkles,Yes,Cold,Serum,Lakme,Natural,Premium,Acne Control Face Wash
+19,Female,Medium,Oily,Wrinkles,No,Humid,Serum,Neutrogena,Natural,Budget,Vitamin C Serum
+34,Male,Fair,Combination,Dullness,Yes,Hot,Moisturizer,Lakme,Chemical,Mid,Hydrating Face Cream
+33,Male,Fair,Oily,Dryness,No,Cold,Serum,The Ordinary,Natural,Mid,Vitamin C Serum
+20,Male,Medium,Oily,Acne,No,Humid,Face Wash,The Ordinary,Chemical,Budget,Anti Aging Cream
+19,Female,Medium,Oily,Acne,No,Humid,Moisturizer,Cetaphil,Chemical,Premium,Oil Free Moisturizer
+40,Female,Dark,Combination,Dryness,No,Hot,Face Wash,Nivea,Chemical,Budget,Oil Free Moisturizer
+26,Male,Medium,Oily,None,Yes,Dry,Face Cream,Nivea,Natural,Budget,Hydrating Face Cream
+31,Male,Fair,Dry,None,No,Humid,Serum,The Ordinary,Natural,Premium,Acne Control Face Wash
+41,Female,Medium,Normal,Dullness,No,Hot,Serum,Lakme,Chemical,Budget,Acne Control Face Wash
+42,Female,Fair,Dry,Pigmentation,No,Hot,Moisturizer,Lakme,Natural,Mid,Niacinamide Serum
+18,Male,Dark,Combination,None,No,Cold,Serum,Cetaphil,Natural,Budget,Niacinamide Serum
+44,Female,Dark,Dry,Dryness,Yes,Humid,Moisturizer,Minimalist,Chemical,Premium,Vitamin C Serum
+25,Male,Dark,Combination,Acne,Yes,Cold,Face Cream,Nivea,Chemical,Premium,Hydrating Face Cream
+43,Female,Medium,Combination,Wrinkles,No,Dry,Face Cream,Cetaphil,Chemical,Mid,Niacinamide Serum
+20,Male,Medium,Combination,None,Yes,Hot,Face Cream,Cetaphil,Natural,Mid,Oil Free Moisturizer
+22,Female,Dark,Combination,Wrinkles,Yes,Humid,Face Wash,Nivea,Chemical,Mid,Oil Free Moisturizer
+34,Male,Dark,Dry,Dullness,Yes,Humid,Face Cream,Plum,Natural,Budget,Salicylic Acid Cleanser
+25,Male,Medium,Combination,Wrinkles,Yes,Moderate,Moisturizer,Minimalist,Chemical,Budget,Hydrating Face Cream
+22,Male,Medium,Dry,Pigmentation,Yes,Moderate,Face Wash,The Ordinary,Natural,Premium,Acne Control Face Wash
+31,Female,Fair,Normal,Acne,Yes,Dry,Serum,Minimalist,Natural,Mid,Niacinamide Serum
+20,Male,Medium,Oily,None,No,Humid,Face Wash,Neutrogena,Chemical,Budget,Niacinamide Serum
+22,Female,Medium,Oily,Dullness,Yes,Dry,Moisturizer,Lakme,Chemical,Mid,Salicylic Acid Cleanser
+34,Male,Fair,Normal,Wrinkles,No,Cold,Moisturizer,Nivea,Chemical,Budget,Salicylic Acid Cleanser
+26,Male,Dark,Normal,Dryness,No,Humid,Serum,Neutrogena,Chemical,Budget,Anti Aging Cream
+26,Male,Dark,Combination,Wrinkles,Yes,Humid,Face Cream,Cetaphil,Natural,Premium,Oil Free Moisturizer
+39,Male,Fair,Dry,Pigmentation,No,Hot,Moisturizer,Plum,Natural,Premium,Niacinamide Serum
+42,Female,Fair,Normal,Dryness,No,Hot,Serum,Lakme,Natural,Premium,Vitamin C Serum
+43,Male,Dark,Oily,Dullness,No,Hot,Moisturizer,Plum,Chemical,Budget,Salicylic Acid Cleanser
+44,Female,Medium,Dry,Dryness,No,Hot,Serum,Minimalist,Chemical,Mid,Acne Control Face Wash
+31,Male,Dark,Dry,None,No,Dry,Face Wash,The Ordinary,Chemical,Premium,Anti Aging Cream
+32,Male,Medium,Normal,Dryness,Yes,Humid,Moisturizer,Minimalist,Chemical,Budget,Niacinamide Serum
+31,Male,Fair,Normal,Dullness,Yes,Dry,Serum,Nivea,Natural,Mid,Anti Aging Cream
+35,Female,Fair,Dry,Dullness,Yes,Humid,Face Wash,Minimalist,Natural,Budget,Niacinamide Serum
+24,Female,Dark,Combination,Wrinkles,No,Moderate,Face Wash,Minimalist,Chemical,Budget,Hydrating Face Cream
+40,Male,Medium,Normal,None,Yes,Dry,Serum,Lakme,Natural,Budget,Salicylic Acid Cleanser
+28,Female,Fair,Oily,Pigmentation,No,Humid,Face Cream,Nivea,Natural,Mid,Oil Free Moisturizer
+36,Male,Dark,Oily,Pigmentation,No,Dry,Face Wash,Neutrogena,Natural,Budget,Niacinamide Serum
+18,Female,Fair,Normal,Dullness,No,Cold,Serum,Cetaphil,Natural,Premium,Hydrating Face Cream
+36,Male,Fair,Oily,Wrinkles,No,Hot,Serum,Neutrogena,Natural,Premium,Vitamin C Serum
+25,Female,Medium,Normal,Dullness,No,Humid,Moisturizer,The Ordinary,Natural,Mid,Niacinamide Serum
+33,Male,Dark,Oily,Pigmentation,Yes,Cold,Face Wash,Plum,Natural,Mid,Niacinamide Serum
+35,Female,Fair,Oily,Dullness,Yes,Humid,Serum,Nivea,Natural,Budget,Oil Free Moisturizer
+30,Female,Dark,Combination,Pigmentation,No,Cold,Moisturizer,Lakme,Natural,Premium,Salicylic Acid Cleanser
+27,Male,Dark,Combination,Acne,Yes,Cold,Face Wash,Plum,Chemical,Budget,Vitamin C Serum
+33,Female,Medium,Combination,Acne,Yes,Humid,Face Wash,Nivea,Natural,Mid,Acne Control Face Wash
+21,Female,Dark,Oily,Dryness,Yes,Cold,Face Cream,Nivea,Natural,Premium,Acne Control Face Wash
+19,Male,Dark,Combination,None,Yes,Hot,Face Cream,The Ordinary,Natural,Mid,Vitamin C Serum
+38,Male,Dark,Oily,Dryness,No,Dry,Face Wash,Neutrogena,Natural,Budget,Vitamin C Serum
+28,Female,Dark,Combination,Wrinkles,No,Humid,Face Cream,The Ordinary,Natural,Mid,Anti Aging Cream
+39,Male,Fair,Dry,Dryness,No,Cold,Moisturizer,The Ordinary,Natural,Mid,Salicylic Acid Cleanser
+43,Female,Dark,Oily,Wrinkles,No,Dry,Moisturizer,Cetaphil,Chemical,Budget,Vitamin C Serum
+21,Female,Dark,Oily,Pigmentation,Yes,Dry,Face Wash,Plum,Natural,Budget,Niacinamide Serum
+27,Female,Fair,Normal,Dryness,Yes,Hot,Face Cream,The Ordinary,Chemical,Premium,Niacinamide Serum
+34,Male,Fair,Dry,Pigmentation,Yes,Cold,Moisturizer,Cetaphil,Chemical,Budget,Oil Free Moisturizer
+25,Male,Fair,Oily,Wrinkles,No,Hot,Face Wash,The Ordinary,Natural,Budget,Niacinamide Serum
+35,Male,Fair,Dry,Acne,Yes,Humid,Face Wash,Nivea,Chemical,Budget,Vitamin C Serum
+21,Male,Medium,Oily,Dryness,Yes,Humid,Serum,Cetaphil,Chemical,Mid,Niacinamide Serum
+28,Male,Fair,Combination,Wrinkles,Yes,Dry,Serum,Lakme,Natural,Mid,Vitamin C Serum
+42,Female,Dark,Combination,None,No,Humid,Moisturizer,Neutrogena,Chemical,Mid,Hydrating Face Cream
+31,Male,Fair,Combination,None,No,Hot,Face Wash,Cetaphil,Chemical,Budget,Salicylic Acid Cleanser
+27,Male,Fair,Dry,Pigmentation,No,Hot,Face Cream,Neutrogena,Chemical,Budget,Salicylic Acid Cleanser
+27,Male,Medium,Oily,Wrinkles,Yes,Dry,Serum,Minimalist,Natural,Premium,Vitamin C Serum
+19,Female,Dark,Oily,Dullness,Yes,Hot,Moisturizer,Plum,Chemical,Budget,Hydrating Face Cream
+23,Male,Fair,Dry,Dryness,Yes,Humid,Face Cream,Lakme,Natural,Premium,Vitamin C Serum
+20,Female,Dark,Normal,Pigmentation,Yes,Humid,Moisturizer,Nivea,Chemical,Budget,Acne Control Face Wash
+43,Female,Medium,Oily,Dullness,No,Humid,Serum,The Ordinary,Natural,Mid,Oil Free Moisturizer
+23,Male,Fair,Oily,Dryness,No,Dry,Face Wash,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+43,Female,Fair,Normal,None,Yes,Moderate,Serum,Minimalist,Chemical,Mid,Anti Aging Cream
+31,Female,Dark,Normal,None,Yes,Hot,Face Cream,Cetaphil,Natural,Premium,Anti Aging Cream
+30,Male,Fair,Oily,Dullness,No,Hot,Moisturizer,Neutrogena,Natural,Premium,Vitamin C Serum
+23,Female,Fair,Dry,Pigmentation,No,Hot,Serum,Nivea,Natural,Budget,Oil Free Moisturizer
+35,Female,Medium,Normal,None,Yes,Moderate,Serum,Minimalist,Natural,Premium,Vitamin C Serum
+42,Female,Dark,Combination,None,Yes,Humid,Face Wash,Nivea,Chemical,Mid,Vitamin C Serum
+26,Female,Fair,Oily,Dryness,Yes,Humid,Moisturizer,Nivea,Natural,Mid,Salicylic Acid Cleanser
+26,Male,Medium,Oily,None,Yes,Cold,Moisturizer,Minimalist,Chemical,Premium,Vitamin C Serum
+24,Male,Fair,Combination,Dullness,Yes,Humid,Moisturizer,Plum,Chemical,Mid,Vitamin C Serum
+32,Male,Dark,Oily,Wrinkles,Yes,Humid,Face Cream,Minimalist,Chemical,Budget,Oil Free Moisturizer
+33,Male,Dark,Dry,Pigmentation,Yes,Cold,Moisturizer,Nivea,Natural,Mid,Acne Control Face Wash
+40,Female,Dark,Combination,Pigmentation,No,Cold,Face Wash,The Ordinary,Natural,Mid,Acne Control Face Wash
+24,Male,Medium,Combination,Dryness,Yes,Cold,Face Wash,Nivea,Natural,Mid,Vitamin C Serum
+19,Male,Medium,Normal,Acne,No,Humid,Serum,Minimalist,Natural,Budget,Salicylic Acid Cleanser
+25,Female,Fair,Combination,Pigmentation,No,Moderate,Serum,Minimalist,Natural,Budget,Niacinamide Serum
+35,Female,Dark,Dry,None,Yes,Cold,Face Wash,Plum,Chemical,Mid,Vitamin C Serum
+20,Female,Dark,Combination,None,No,Hot,Serum,Minimalist,Natural,Budget,Hydrating Face Cream
+31,Male,Fair,Oily,Dullness,No,Cold,Face Cream,The Ordinary,Natural,Mid,Acne Control Face Wash
+23,Female,Dark,Combination,Dryness,Yes,Humid,Face Wash,Cetaphil,Natural,Premium,Anti Aging Cream
+44,Male,Fair,Oily,Dullness,Yes,Cold,Face Wash,Minimalist,Chemical,Mid,Acne Control Face Wash
+41,Male,Fair,Normal,Pigmentation,No,Dry,Face Cream,Plum,Chemical,Mid,Hydrating Face Cream
+26,Male,Medium,Dry,Wrinkles,Yes,Moderate,Face Wash,Lakme,Natural,Budget,Anti Aging Cream
+24,Male,Dark,Dry,None,No,Moderate,Face Cream,Nivea,Natural,Mid,Vitamin C Serum
+22,Male,Dark,Combination,Pigmentation,No,Dry,Face Wash,Lakme,Natural,Budget,Acne Control Face Wash
+35,Male,Fair,Dry,Wrinkles,No,Humid,Moisturizer,Neutrogena,Natural,Premium,Vitamin C Serum
+23,Male,Fair,Dry,Acne,Yes,Humid,Moisturizer,The Ordinary,Chemical,Mid,Salicylic Acid Cleanser
+30,Female,Medium,Combination,Acne,No,Hot,Face Wash,Plum,Chemical,Premium,Oil Free Moisturizer
+22,Male,Fair,Dry,Dryness,No,Humid,Serum,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+35,Male,Fair,Combination,None,Yes,Hot,Face Cream,Plum,Chemical,Mid,Oil Free Moisturizer
+39,Female,Fair,Combination,None,Yes,Humid,Face Wash,Minimalist,Natural,Premium,Anti Aging Cream
+20,Female,Fair,Combination,Dullness,Yes,Hot,Moisturizer,Cetaphil,Chemical,Budget,Salicylic Acid Cleanser
+27,Male,Fair,Combination,None,No,Moderate,Face Cream,Neutrogena,Natural,Budget,Niacinamide Serum
+36,Male,Fair,Oily,Pigmentation,No,Humid,Face Cream,Minimalist,Chemical,Budget,Niacinamide Serum
+20,Female,Medium,Combination,Acne,No,Cold,Serum,Neutrogena,Natural,Mid,Anti Aging Cream
+39,Male,Dark,Normal,Dullness,Yes,Humid,Serum,Plum,Natural,Budget,Hydrating Face Cream
+35,Male,Dark,Oily,Wrinkles,No,Dry,Face Cream,Cetaphil,Chemical,Budget,Vitamin C Serum
+34,Female,Medium,Normal,Dullness,Yes,Dry,Moisturizer,Plum,Chemical,Premium,Hydrating Face Cream
+30,Male,Dark,Normal,Acne,No,Dry,Moisturizer,Neutrogena,Chemical,Premium,Vitamin C Serum
+38,Female,Dark,Oily,Dullness,No,Humid,Serum,Plum,Natural,Mid,Hydrating Face Cream
+44,Female,Dark,Combination,Dryness,No,Humid,Face Wash,Lakme,Natural,Mid,Acne Control Face Wash
+20,Male,Dark,Combination,Acne,No,Dry,Face Cream,Lakme,Chemical,Premium,Vitamin C Serum
+20,Female,Fair,Dry,Dryness,Yes,Moderate,Face Cream,Lakme,Natural,Premium,Anti Aging Cream
+35,Male,Dark,Oily,Acne,No,Cold,Face Wash,Plum,Natural,Premium,Niacinamide Serum
+18,Male,Fair,Normal,Acne,Yes,Moderate,Serum,Plum,Natural,Premium,Oil Free Moisturizer
+33,Male,Dark,Oily,None,Yes,Humid,Face Cream,Minimalist,Chemical,Mid,Acne Control Face Wash
+40,Female,Dark,Dry,Pigmentation,No,Moderate,Face Cream,Minimalist,Natural,Premium,Anti Aging Cream
+34,Female,Medium,Combination,Dryness,Yes,Dry,Moisturizer,Cetaphil,Chemical,Mid,Salicylic Acid Cleanser
+43,Male,Fair,Combination,Acne,Yes,Dry,Serum,Plum,Chemical,Mid,Acne Control Face Wash
+34,Male,Fair,Dry,None,No,Humid,Face Wash,Lakme,Natural,Budget,Vitamin C Serum
+32,Male,Medium,Dry,Dryness,No,Cold,Face Wash,Cetaphil,Natural,Premium,Niacinamide Serum
+41,Male,Fair,Normal,Pigmentation,No,Humid,Face Cream,Nivea,Chemical,Budget,Salicylic Acid Cleanser
+35,Female,Medium,Oily,Dryness,No,Moderate,Moisturizer,Plum,Natural,Budget,Oil Free Moisturizer
+28,Male,Medium,Dry,Dryness,No,Dry,Face Cream,Minimalist,Natural,Budget,Hydrating Face Cream
+35,Female,Fair,Oily,Dullness,No,Humid,Serum,Lakme,Chemical,Mid,Acne Control Face Wash
+21,Female,Dark,Combination,Pigmentation,No,Hot,Serum,Minimalist,Chemical,Mid,Hydrating Face Cream
+23,Female,Dark,Normal,Dryness,Yes,Hot,Moisturizer,Minimalist,Natural,Mid,Niacinamide Serum
+44,Male,Dark,Normal,Dullness,No,Dry,Face Wash,The Ordinary,Natural,Mid,Anti Aging Cream
+21,Male,Fair,Dry,Dryness,Yes,Moderate,Face Cream,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+44,Female,Medium,Normal,Acne,Yes,Moderate,Moisturizer,Neutrogena,Chemical,Mid,Salicylic Acid Cleanser
+23,Female,Dark,Combination,None,Yes,Cold,Face Wash,Cetaphil,Natural,Premium,Acne Control Face Wash
+36,Female,Fair,Combination,Dullness,Yes,Moderate,Moisturizer,Neutrogena,Natural,Budget,Salicylic Acid Cleanser
+42,Male,Dark,Oily,Acne,Yes,Hot,Face Wash,The Ordinary,Chemical,Budget,Salicylic Acid Cleanser
+44,Male,Medium,Oily,Wrinkles,No,Dry,Moisturizer,Neutrogena,Chemical,Budget,Acne Control Face Wash
+25,Female,Dark,Normal,Dullness,No,Dry,Face Cream,Nivea,Natural,Budget,Acne Control Face Wash
+28,Male,Fair,Normal,Dryness,Yes,Dry,Serum,Plum,Chemical,Mid,Anti Aging Cream
+23,Male,Dark,Combination,Acne,Yes,Dry,Serum,Lakme,Chemical,Mid,Hydrating Face Cream
+31,Female,Medium,Normal,Acne,No,Moderate,Face Wash,Minimalist,Chemical,Budget,Salicylic Acid Cleanser
+43,Male,Medium,Oily,Dryness,Yes,Moderate,Moisturizer,Minimalist,Chemical,Budget,Anti Aging Cream
+23,Male,Fair,Oily,None,Yes,Cold,Serum,Nivea,Natural,Budget,Niacinamide Serum
+36,Male,Medium,Normal,None,No,Hot,Moisturizer,Minimalist,Chemical,Mid,Vitamin C Serum
+18,Female,Fair,Oily,Dryness,Yes,Dry,Serum,Nivea,Chemical,Premium,Oil Free Moisturizer
+44,Male,Medium,Normal,Wrinkles,No,Hot,Moisturizer,Lakme,Natural,Mid,Vitamin C Serum
+24,Female,Medium,Combination,Dryness,No,Hot,Face Wash,Lakme,Natural,Budget,Anti Aging Cream
+29,Male,Dark,Normal,Wrinkles,No,Hot,Moisturizer,Neutrogena,Chemical,Premium,Niacinamide Serum
+25,Female,Dark,Normal,Acne,No,Cold,Serum,Minimalist,Chemical,Mid,Anti Aging Cream
+31,Female,Fair,Dry,Dryness,No,Cold,Moisturizer,Plum,Natural,Premium,Hydrating Face Cream
+25,Male,Medium,Oily,Dryness,No,Humid,Serum,Plum,Chemical,Mid,Oil Free Moisturizer
+32,Male,Dark,Combination,Pigmentation,Yes,Moderate,Serum,Cetaphil,Chemical,Premium,Vitamin C Serum
+23,Male,Medium,Normal,Pigmentation,No,Dry,Face Wash,Cetaphil,Natural,Mid,Niacinamide Serum
+38,Male,Dark,Oily,Acne,No,Hot,Serum,Neutrogena,Natural,Budget,Hydrating Face Cream
+28,Female,Medium,Oily,Dullness,No,Moderate,Face Wash,Plum,Chemical,Premium,Salicylic Acid Cleanser
+20,Female,Medium,Combination,Acne,No,Moderate,Moisturizer,Plum,Natural,Premium,Oil Free Moisturizer
+42,Female,Medium,Combination,None,Yes,Dry,Face Wash,Nivea,Chemical,Budget,Hydrating Face Cream
+28,Female,Dark,Dry,None,Yes,Cold,Moisturizer,Neutrogena,Chemical,Mid,Hydrating Face Cream
+19,Male,Medium,Normal,Wrinkles,No,Cold,Serum,Nivea,Natural,Budget,Vitamin C Serum
+20,Male,Medium,Oily,Acne,Yes,Hot,Face Wash,Lakme,Natural,Mid,Oil Free Moisturizer
+31,Male,Dark,Dry,Dryness,No,Dry,Face Cream,Cetaphil,Chemical,Mid,Acne Control Face Wash
+28,Male,Medium,Dry,Pigmentation,No,Humid,Serum,Nivea,Natural,Mid,Niacinamide Serum
+26,Female,Dark,Dry,Wrinkles,Yes,Cold,Serum,The Ordinary,Chemical,Mid,Salicylic Acid Cleanser
+33,Male,Dark,Combination,Dullness,No,Humid,Face Wash,Lakme,Chemical,Premium,Anti Aging Cream
+29,Male,Fair,Normal,Pigmentation,No,Moderate,Face Cream,Neutrogena,Natural,Premium,Acne Control Face Wash
+18,Male,Fair,Oily,Wrinkles,Yes,Dry,Face Cream,Nivea,Chemical,Budget,Niacinamide Serum
+41,Female,Medium,Normal,Acne,Yes,Dry,Face Wash,The Ordinary,Natural,Budget,Salicylic Acid Cleanser
+28,Female,Fair,Dry,Wrinkles,Yes,Moderate,Face Cream,Cetaphil,Natural,Premium,Vitamin C Serum
+19,Male,Medium,Combination,Pigmentation,No,Cold,Face Wash,Cetaphil,Chemical,Budget,Niacinamide Serum
+38,Male,Dark,Dry,Dryness,No,Cold,Moisturizer,The Ordinary,Chemical,Mid,Vitamin C Serum
+19,Female,Fair,Normal,Acne,No,Cold,Face Wash,Lakme,Chemical,Budget,Hydrating Face Cream
+38,Male,Medium,Dry,None,No,Humid,Face Wash,Nivea,Chemical,Mid,Anti Aging Cream
+25,Male,Fair,Oily,None,Yes,Hot,Serum,The Ordinary,Natural,Mid,Vitamin C Serum
+25,Male,Dark,Dry,None,Yes,Cold,Face Wash,Neutrogena,Natural,Premium,Hydrating Face Cream
+41,Male,Medium,Combination,Acne,No,Cold,Serum,The Ordinary,Natural,Mid,Niacinamide Serum
+18,Male,Dark,Normal,Pigmentation,Yes,Hot,Moisturizer,Cetaphil,Natural,Premium,Niacinamide Serum
+18,Female,Fair,Normal,Acne,Yes,Cold,Face Cream,Lakme,Natural,Mid,Niacinamide Serum
+34,Female,Dark,Dry,Dullness,No,Dry,Face Cream,Neutrogena,Natural,Mid,Acne Control Face Wash
+41,Female,Dark,Combination,Wrinkles,No,Dry,Face Cream,Neutrogena,Natural,Budget,Niacinamide Serum
+22,Female,Medium,Dry,None,Yes,Humid,Serum,Lakme,Natural,Premium,Oil Free Moisturizer
+44,Male,Dark,Combination,None,No,Moderate,Serum,Nivea,Natural,Premium,Oil Free Moisturizer
+32,Female,Medium,Combination,None,Yes,Cold,Face Wash,Nivea,Chemical,Budget,Vitamin C Serum
+20,Male,Dark,Oily,Pigmentation,No,Humid,Face Wash,Minimalist,Natural,Premium,Hydrating Face Cream
+37,Female,Medium,Oily,Pigmentation,No,Cold,Serum,Neutrogena,Chemical,Budget,Hydrating Face Cream
+19,Female,Dark,Normal,Wrinkles,Yes,Moderate,Serum,Cetaphil,Chemical,Premium,Niacinamide Serum
+37,Female,Fair,Dry,None,No,Humid,Face Wash,Neutrogena,Natural,Mid,Anti Aging Cream
+33,Female,Dark,Dry,Dullness,Yes,Moderate,Face Wash,Minimalist,Natural,Premium,Anti Aging Cream
+19,Female,Medium,Normal,Wrinkles,Yes,Hot,Moisturizer,Plum,Chemical,Budget,Salicylic Acid Cleanser
+21,Female,Fair,Normal,None,No,Cold,Moisturizer,Minimalist,Natural,Mid,Hydrating Face Cream
+41,Male,Fair,Normal,None,No,Humid,Face Wash,Cetaphil,Chemical,Budget,Niacinamide Serum
+21,Female,Dark,Combination,None,Yes,Cold,Face Wash,Minimalist,Chemical,Premium,Salicylic Acid Cleanser
+23,Female,Medium,Oily,Pigmentation,Yes,Hot,Face Wash,Neutrogena,Chemical,Budget,Vitamin C Serum
+35,Female,Dark,Normal,Wrinkles,No,Humid,Face Cream,Neutrogena,Natural,Mid,Vitamin C Serum
+25,Female,Medium,Dry,None,Yes,Moderate,Moisturizer,The Ordinary,Natural,Budget,Hydrating Face Cream
+29,Male,Fair,Dry,None,Yes,Humid,Serum,Plum,Natural,Premium,Salicylic Acid Cleanser
+34,Male,Fair,Dry,Dryness,Yes,Moderate,Face Cream,Lakme,Chemical,Mid,Niacinamide Serum
+34,Male,Medium,Combination,Dullness,No,Dry,Face Cream,Nivea,Chemical,Premium,Hydrating Face Cream
+43,Male,Fair,Combination,Wrinkles,No,Moderate,Moisturizer,Neutrogena,Natural,Mid,Anti Aging Cream
+32,Male,Medium,Oily,Dullness,Yes,Dry,Face Wash,Cetaphil,Chemical,Premium,Acne Control Face Wash
+27,Female,Dark,Oily,Acne,No,Cold,Serum,Minimalist,Chemical,Premium,Anti Aging Cream
+37,Male,Fair,Normal,Pigmentation,Yes,Humid,Face Wash,Neutrogena,Chemical,Budget,Acne Control Face Wash
+33,Female,Medium,Normal,Acne,No,Hot,Face Cream,Neutrogena,Natural,Budget,Hydrating Face Cream
+19,Male,Fair,Dry,Dryness,No,Cold,Face Wash,Neutrogena,Chemical,Premium,Vitamin C Serum
+42,Male,Fair,Combination,None,No,Humid,Moisturizer,Cetaphil,Natural,Premium,Hydrating Face Cream
+40,Female,Fair,Normal,Dryness,Yes,Moderate,Serum,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+18,Male,Medium,Oily,Dryness,Yes,Humid,Face Wash,Nivea,Chemical,Mid,Oil Free Moisturizer
+26,Female,Medium,Combination,Dullness,No,Dry,Moisturizer,Minimalist,Natural,Premium,Salicylic Acid Cleanser
+36,Male,Fair,Dry,Pigmentation,No,Dry,Face Cream,Neutrogena,Chemical,Mid,Hydrating Face Cream
+32,Male,Fair,Normal,None,Yes,Dry,Face Cream,Neutrogena,Natural,Mid,Niacinamide Serum
+39,Female,Medium,Dry,Dryness,No,Moderate,Moisturizer,Plum,Natural,Mid,Oil Free Moisturizer
+26,Male,Medium,Dry,Acne,Yes,Moderate,Serum,Nivea,Chemical,Budget,Hydrating Face Cream
+40,Male,Dark,Oily,Acne,Yes,Hot,Face Wash,Neutrogena,Chemical,Premium,Niacinamide Serum
+31,Male,Medium,Dry,None,Yes,Moderate,Face Wash,Minimalist,Chemical,Mid,Vitamin C Serum
+42,Female,Dark,Combination,Acne,No,Dry,Face Cream,Minimalist,Natural,Mid,Salicylic Acid Cleanser
+44,Female,Dark,Combination,Dullness,No,Cold,Serum,Cetaphil,Natural,Budget,Anti Aging Cream
+43,Male,Fair,Oily,Wrinkles,Yes,Moderate,Moisturizer,Cetaphil,Chemical,Mid,Hydrating Face Cream
+36,Female,Dark,Normal,Dryness,No,Humid,Serum,Nivea,Natural,Budget,Hydrating Face Cream
+23,Female,Fair,Combination,Acne,Yes,Dry,Serum,Nivea,Natural,Mid,Acne Control Face Wash
+23,Female,Dark,Dry,Dryness,Yes,Hot,Face Cream,Lakme,Natural,Budget,Acne Control Face Wash
+39,Male,Dark,Combination,Dullness,No,Cold,Serum,Neutrogena,Chemical,Mid,Niacinamide Serum
+22,Male,Dark,Combination,Acne,Yes,Dry,Serum,Lakme,Natural,Premium,Acne Control Face Wash
+38,Female,Dark,Oily,None,Yes,Dry,Face Wash,Minimalist,Natural,Mid,Acne Control Face Wash
+29,Female,Medium,Combination,Dryness,No,Hot,Moisturizer,Nivea,Chemical,Budget,Salicylic Acid Cleanser
+18,Male,Medium,Combination,Wrinkles,Yes,Humid,Face Wash,Minimalist,Natural,Premium,Vitamin C Serum
+18,Female,Medium,Combination,Dryness,Yes,Cold,Face Cream,Minimalist,Natural,Budget,Salicylic Acid Cleanser
+41,Female,Medium,Combination,Acne,No,Dry,Face Wash,Plum,Natural,Budget,Anti Aging Cream
+25,Male,Fair,Normal,Acne,Yes,Hot,Face Wash,Cetaphil,Natural,Premium,Acne Control Face Wash
+35,Male,Fair,Normal,Dullness,Yes,Hot,Face Cream,Neutrogena,Chemical,Mid,Salicylic Acid Cleanser
+42,Female,Medium,Combination,Wrinkles,Yes,Moderate,Serum,Minimalist,Chemical,Mid,Niacinamide Serum
+32,Male,Dark,Normal,Acne,Yes,Hot,Serum,Minimalist,Natural,Mid,Anti Aging Cream
+42,Male,Medium,Oily,Wrinkles,No,Cold,Face Cream,Minimalist,Natural,Premium,Oil Free Moisturizer
+42,Male,Fair,Normal,Pigmentation,Yes,Humid,Moisturizer,Lakme,Natural,Mid,Hydrating Face Cream
+42,Male,Medium,Combination,Pigmentation,Yes,Cold,Face Cream,Cetaphil,Chemical,Premium,Hydrating Face Cream
+26,Female,Fair,Dry,Acne,Yes,Humid,Face Cream,Neutrogena,Natural,Premium,Acne Control Face Wash
+30,Female,Dark,Dry,Wrinkles,No,Moderate,Face Cream,The Ordinary,Natural,Mid,Acne Control Face Wash
+26,Male,Medium,Normal,Acne,Yes,Hot,Moisturizer,Plum,Chemical,Premium,Vitamin C Serum
+32,Female,Fair,Combination,Pigmentation,Yes,Humid,Moisturizer,Cetaphil,Chemical,Budget,Oil Free Moisturizer
+18,Female,Dark,Normal,Dryness,Yes,Humid,Face Cream,The Ordinary,Chemical,Mid,Anti Aging Cream
+26,Male,Fair,Oily,Acne,No,Dry,Face Cream,Nivea,Natural,Budget,Oil Free Moisturizer
+35,Male,Medium,Oily,Acne,Yes,Cold,Serum,Lakme,Natural,Mid,Hydrating Face Cream
+30,Male,Dark,Combination,Wrinkles,No,Hot,Serum,Cetaphil,Chemical,Premium,Niacinamide Serum
+27,Male,Medium,Combination,Acne,No,Moderate,Face Wash,Plum,Chemical,Budget,Niacinamide Serum
+18,Male,Fair,Combination,Pigmentation,Yes,Cold,Face Wash,Nivea,Natural,Mid,Oil Free Moisturizer
+31,Female,Fair,Combination,None,Yes,Humid,Face Cream,The Ordinary,Chemical,Budget,Vitamin C Serum
+28,Male,Medium,Combination,Wrinkles,No,Cold,Face Wash,Cetaphil,Chemical,Budget,Niacinamide Serum
+35,Male,Dark,Dry,Acne,Yes,Cold,Face Wash,Cetaphil,Natural,Premium,Acne Control Face Wash
+38,Male,Medium,Dry,None,Yes,Hot,Moisturizer,Plum,Natural,Premium,Acne Control Face Wash
+21,Female,Dark,Combination,None,Yes,Cold,Serum,Plum,Chemical,Budget,Acne Control Face Wash
+44,Male,Medium,Dry,Wrinkles,No,Dry,Face Wash,Lakme,Natural,Budget,Hydrating Face Cream
+21,Male,Dark,Dry,Wrinkles,Yes,Humid,Face Cream,Cetaphil,Natural,Premium,Oil Free Moisturizer
+29,Female,Fair,Normal,Acne,Yes,Moderate,Moisturizer,Plum,Natural,Budget,Oil Free Moisturizer
+33,Female,Dark,Oily,Dullness,No,Cold,Face Cream,Minimalist,Chemical,Premium,Salicylic Acid Cleanser
+22,Male,Medium,Dry,Dullness,No,Moderate,Serum,Plum,Natural,Mid,Anti Aging Cream
+32,Male,Fair,Normal,Wrinkles,No,Moderate,Face Cream,Lakme,Chemical,Mid,Oil Free Moisturizer
+29,Female,Fair,Dry,Dryness,No,Moderate,Serum,Cetaphil,Chemical,Mid,Salicylic Acid Cleanser
+31,Female,Fair,Combination,Wrinkles,Yes,Cold,Serum,Nivea,Chemical,Mid,Anti Aging Cream
+40,Female,Dark,Combination,Dryness,Yes,Hot,Serum,Cetaphil,Chemical,Budget,Vitamin C Serum
+33,Female,Fair,Dry,Wrinkles,No,Cold,Moisturizer,Nivea,Natural,Mid,Oil Free Moisturizer
+37,Female,Dark,Dry,None,No,Cold,Serum,Neutrogena,Chemical,Budget,Vitamin C Serum
+24,Female,Dark,Normal,Wrinkles,No,Moderate,Moisturizer,The Ordinary,Natural,Budget,Vitamin C Serum
+25,Male,Fair,Combination,Dryness,No,Humid,Face Cream,Cetaphil,Natural,Mid,Acne Control Face Wash
+31,Female,Fair,Dry,Dryness,Yes,Dry,Moisturizer,Cetaphil,Natural,Budget,Oil Free Moisturizer
+25,Male,Fair,Normal,Pigmentation,No,Moderate,Serum,Nivea,Chemical,Premium,Oil Free Moisturizer
+29,Female,Fair,Dry,Dullness,No,Moderate,Face Wash,Minimalist,Chemical,Budget,Vitamin C Serum
+18,Female,Medium,Combination,Dryness,Yes,Moderate,Serum,Cetaphil,Chemical,Budget,Vitamin C Serum
+19,Male,Fair,Dry,Acne,Yes,Cold,Moisturizer,The Ordinary,Natural,Premium,Hydrating Face Cream
+31,Male,Medium,Oily,Dullness,No,Humid,Moisturizer,Lakme,Natural,Budget,Acne Control Face Wash
+36,Male,Fair,Dry,None,Yes,Cold,Serum,The Ordinary,Natural,Premium,Oil Free Moisturizer
+41,Male,Medium,Normal,Acne,No,Cold,Face Wash,Neutrogena,Chemical,Premium,Hydrating Face Cream
+34,Male,Dark,Normal,Pigmentation,Yes,Cold,Face Wash,Minimalist,Natural,Mid,Oil Free Moisturizer
+25,Male,Dark,Oily,Dryness,No,Hot,Moisturizer,Cetaphil,Chemical,Budget,Vitamin C Serum
+33,Male,Dark,Dry,Wrinkles,No,Moderate,Serum,Nivea,Natural,Budget,Acne Control Face Wash
+29,Male,Dark,Combination,Wrinkles,No,Dry,Face Wash,Minimalist,Chemical,Premium,Oil Free Moisturizer
+31,Female,Fair,Oily,Pigmentation,Yes,Moderate,Face Wash,Cetaphil,Chemical,Premium,Acne Control Face Wash
+25,Male,Dark,Normal,Acne,Yes,Cold,Moisturizer,Nivea,Natural,Premium,Hydrating Face Cream
+19,Male,Dark,Normal,Dryness,Yes,Cold,Face Wash,Nivea,Natural,Mid,Niacinamide Serum
+27,Female,Fair,Combination,Dryness,No,Moderate,Serum,Neutrogena,Natural,Budget,Niacinamide Serum
+44,Female,Medium,Normal,Pigmentation,Yes,Humid,Serum,Neutrogena,Chemical,Budget,Anti Aging Cream
+23,Male,Medium,Normal,Pigmentation,Yes,Hot,Moisturizer,Minimalist,Chemical,Premium,Vitamin C Serum
+32,Female,Dark,Oily,Wrinkles,Yes,Humid,Face Wash,Nivea,Natural,Budget,Niacinamide Serum
+42,Male,Dark,Oily,Acne,No,Humid,Serum,Lakme,Chemical,Mid,Salicylic Acid Cleanser
+40,Female,Fair,Combination,Dryness,Yes,Hot,Face Wash,Nivea,Natural,Mid,Niacinamide Serum
+24,Female,Fair,Oily,Dullness,Yes,Dry,Face Wash,The Ordinary,Chemical,Premium,Anti Aging Cream
+28,Male,Medium,Normal,Dryness,No,Hot,Moisturizer,Neutrogena,Natural,Mid,Anti Aging Cream
+24,Male,Fair,Dry,Pigmentation,Yes,Humid,Serum,Neutrogena,Chemical,Budget,Salicylic Acid Cleanser
+19,Male,Medium,Dry,None,Yes,Humid,Moisturizer,Lakme,Chemical,Budget,Oil Free Moisturizer
+24,Female,Fair,Normal,Dullness,No,Dry,Moisturizer,Nivea,Chemical,Premium,Anti Aging Cream
+40,Male,Medium,Combination,Dullness,Yes,Humid,Serum,Lakme,Chemical,Premium,Hydrating Face Cream
+20,Male,Dark,Dry,None,No,Cold,Serum,Plum,Natural,Mid,Hydrating Face Cream
+38,Male,Fair,Dry,Acne,No,Dry,Face Cream,Cetaphil,Chemical,Budget,Salicylic Acid Cleanser
+19,Female,Dark,Dry,Dullness,No,Cold,Face Wash,Neutrogena,Natural,Mid,Salicylic Acid Cleanser
+40,Male,Dark,Oily,Dullness,Yes,Hot,Face Wash,Neutrogena,Chemical,Budget,Oil Free Moisturizer
+27,Female,Dark,Oily,Wrinkles,Yes,Humid,Serum,Cetaphil,Natural,Premium,Niacinamide Serum
+25,Male,Medium,Normal,Wrinkles,Yes,Moderate,Face Wash,Cetaphil,Natural,Budget,Salicylic Acid Cleanser
+25,Male,Dark,Oily,Wrinkles,Yes,Dry,Face Wash,Minimalist,Chemical,Budget,Niacinamide Serum
+33,Female,Dark,Dry,Dullness,No,Cold,Moisturizer,Cetaphil,Chemical,Mid,Niacinamide Serum
+18,Male,Fair,Combination,None,Yes,Dry,Moisturizer,The Ordinary,Natural,Budget,Vitamin C Serum
+40,Male,Fair,Normal,Dullness,Yes,Humid,Face Wash,Cetaphil,Natural,Mid,Salicylic Acid Cleanser
+21,Female,Medium,Oily,Dullness,Yes,Hot,Face Wash,Nivea,Chemical,Mid,Salicylic Acid Cleanser
+18,Female,Dark,Oily,Acne,Yes,Dry,Face Wash,Cetaphil,Chemical,Budget,Anti Aging Cream
+21,Male,Fair,Oily,Pigmentation,Yes,Hot,Moisturizer,Cetaphil,Natural,Mid,Anti Aging Cream
+43,Male,Medium,Dry,Wrinkles,No,Humid,Serum,The Ordinary,Chemical,Mid,Hydrating Face Cream
+31,Female,Dark,Oily,Dullness,No,Moderate,Serum,Cetaphil,Chemical,Premium,Vitamin C Serum
+43,Male,Fair,Dry,Dullness,No,Hot,Serum,Lakme,Natural,Premium,Anti Aging Cream
+35,Male,Medium,Combination,Acne,Yes,Hot,Face Wash,Cetaphil,Chemical,Premium,Hydrating Face Cream
+21,Male,Dark,Oily,Acne,Yes,Hot,Serum,Neutrogena,Natural,Budget,Oil Free Moisturizer
+33,Female,Fair,Normal,Dullness,Yes,Humid,Serum,Minimalist,Natural,Budget,Acne Control Face Wash
+24,Male,Fair,Combination,Acne,Yes,Hot,Moisturizer,The Ordinary,Chemical,Budget,Niacinamide Serum
+37,Male,Fair,Oily,Acne,Yes,Humid,Face Cream,Minimalist,Natural,Premium,Acne Control Face Wash
+42,Female,Medium,Normal,Acne,No,Cold,Serum,Minimalist,Chemical,Budget,Acne Control Face Wash
+20,Male,Medium,Oily,Dullness,No,Dry,Moisturizer,Nivea,Chemical,Premium,Anti Aging Cream
+24,Male,Medium,Normal,Dullness,Yes,Moderate,Face Cream,Plum,Chemical,Premium,Anti Aging Cream
+33,Male,Dark,Normal,Dryness,Yes,Hot,Moisturizer,Plum,Chemical,Premium,Niacinamide Serum
+22,Female,Medium,Dry,Wrinkles,No,Moderate,Face Wash,Neutrogena,Natural,Premium,Niacinamide Serum
+41,Female,Medium,Dry,Dullness,No,Humid,Face Wash,Nivea,Natural,Mid,Niacinamide Serum
+22,Female,Dark,Oily,None,No,Humid,Face Cream,Plum,Chemical,Mid,Salicylic Acid Cleanser
+37,Female,Dark,Combination,None,No,Humid,Face Wash,Minimalist,Chemical,Mid,Hydrating Face Cream
+38,Male,Fair,Dry,Wrinkles,Yes,Hot,Moisturizer,Neutrogena,Chemical,Premium,Anti Aging Cream
+34,Male,Dark,Combination,Wrinkles,Yes,Humid,Face Wash,Minimalist,Chemical,Mid,Hydrating Face Cream
+34,Male,Dark,Normal,Dryness,Yes,Cold,Face Wash,Cetaphil,Natural,Budget,Oil Free Moisturizer
+18,Female,Dark,Dry,Wrinkles,No,Hot,Face Cream,Nivea,Chemical,Mid,Anti Aging Cream
+24,Female,Medium,Combination,Wrinkles,No,Humid,Face Wash,Plum,Natural,Mid,Oil Free Moisturizer
+19,Female,Dark,Normal,None,No,Cold,Face Cream,Plum,Natural,Budget,Salicylic Acid Cleanser
+32,Female,Dark,Dry,Wrinkles,No,Hot,Serum,The Ordinary,Chemical,Budget,Oil Free Moisturizer
+44,Female,Fair,Oily,Wrinkles,Yes,Humid,Serum,Neutrogena,Chemical,Premium,Niacinamide Serum
+41,Female,Fair,Combination,Pigmentation,Yes,Hot,Moisturizer,Neutrogena,Chemical,Premium,Vitamin C Serum
+41,Female,Dark,Dry,Dullness,Yes,Hot,Face Cream,Minimalist,Chemical,Budget,Hydrating Face Cream
+37,Male,Dark,Normal,Dryness,No,Moderate,Face Cream,The Ordinary,Chemical,Budget,Acne Control Face Wash
+22,Male,Fair,Normal,Dullness,No,Moderate,Face Wash,Lakme,Chemical,Budget,Acne Control Face Wash
+30,Male,Medium,Combination,Pigmentation,No,Humid,Face Wash,Nivea,Chemical,Mid,Anti Aging Cream
+43,Male,Fair,Normal,Pigmentation,No,Hot,Serum,Nivea,Natural,Premium,Hydrating Face Cream
+42,Male,Medium,Normal,Pigmentation,No,Cold,Face Wash,Neutrogena,Chemical,Mid,Hydrating Face Cream
+39,Male,Fair,Oily,Acne,No,Hot,Moisturizer,The Ordinary,Chemical,Mid,Oil Free Moisturizer
+37,Female,Medium,Oily,Pigmentation,No,Dry,Serum,Nivea,Chemical,Budget,Hydrating Face Cream
+27,Male,Medium,Normal,None,Yes,Hot,Serum,Neutrogena,Natural,Mid,Acne Control Face Wash
+35,Male,Fair,Oily,Pigmentation,No,Moderate,Face Wash,Neutrogena,Chemical,Premium,Niacinamide Serum
+18,Female,Dark,Dry,Acne,No,Moderate,Moisturizer,The Ordinary,Natural,Budget,Salicylic Acid Cleanser
+33,Female,Fair,Oily,Dullness,Yes,Cold,Moisturizer,Lakme,Natural,Budget,Niacinamide Serum
+19,Female,Fair,Dry,Pigmentation,No,Hot,Serum,The Ordinary,Chemical,Budget,Oil Free Moisturizer
+36,Male,Fair,Combination,None,Yes,Dry,Face Cream,The Ordinary,Chemical,Mid,Acne Control Face Wash
+20,Male,Medium,Dry,Dullness,No,Dry,Face Cream,Neutrogena,Chemical,Premium,Hydrating Face Cream
+41,Female,Dark,Normal,Wrinkles,No,Humid,Serum,Cetaphil,Chemical,Mid,Salicylic Acid Cleanser
+20,Female,Medium,Normal,Acne,No,Hot,Serum,Cetaphil,Natural,Premium,Vitamin C Serum
+34,Male,Dark,Oily,None,No,Humid,Face Wash,Minimalist,Natural,Mid,Acne Control Face Wash
+38,Female,Dark,Normal,Acne,No,Moderate,Moisturizer,The Ordinary,Natural,Premium,Niacinamide Serum
+43,Female,Dark,Dry,Acne,Yes,Hot,Face Wash,Cetaphil,Chemical,Mid,Salicylic Acid Cleanser
+40,Female,Dark,Combination,Dullness,No,Dry,Moisturizer,Cetaphil,Chemical,Mid,Acne Control Face Wash
+28,Male,Dark,Oily,Wrinkles,No,Humid,Moisturizer,Plum,Natural,Premium,Salicylic Acid Cleanser
+41,Male,Dark,Normal,Wrinkles,No,Cold,Face Wash,Minimalist,Natural,Budget,Anti Aging Cream
+25,Male,Dark,Normal,Dryness,No,Cold,Moisturizer,Minimalist,Natural,Budget,Hydrating Face Cream
+40,Male,Fair,Oily,Pigmentation,No,Dry,Moisturizer,Neutrogena,Chemical,Mid,Oil Free Moisturizer
+41,Female,Dark,Dry,Dullness,No,Humid,Face Cream,Plum,Chemical,Premium,Acne Control Face Wash
+21,Female,Dark,Oily,Acne,No,Dry,Serum,The Ordinary,Chemical,Mid,Anti Aging Cream
+34,Female,Fair,Oily,None,Yes,Moderate,Moisturizer,Lakme,Chemical,Budget,Salicylic Acid Cleanser
+34,Male,Medium,Normal,Acne,No,Hot,Face Cream,Plum,Chemical,Mid,Vitamin C Serum
+42,Female,Fair,Normal,Dullness,No,Moderate,Serum,Neutrogena,Chemical,Budget,Vitamin C Serum
+42,Male,Medium,Combination,Wrinkles,No,Dry,Face Wash,Lakme,Natural,Budget,Hydrating Face Cream
+29,Female,Medium,Dry,Wrinkles,Yes,Moderate,Serum,Plum,Natural,Mid,Oil Free Moisturizer
+40,Male,Dark,Dry,None,Yes,Dry,Face Cream,Neutrogena,Chemical,Budget,Hydrating Face Cream
+26,Female,Dark,Oily,Dullness,Yes,Humid,Face Cream,Neutrogena,Chemical,Mid,Salicylic Acid Cleanser
+41,Male,Dark,Normal,Dryness,No,Cold,Face Cream,Lakme,Natural,Mid,Acne Control Face Wash
+28,Male,Dark,Dry,None,No,Humid,Serum,Plum,Chemical,Premium,Acne Control Face Wash
+37,Male,Medium,Combination,Pigmentation,No,Moderate,Serum,The Ordinary,Natural,Mid,Vitamin C Serum
+28,Male,Dark,Combination,Wrinkles,Yes,Hot,Moisturizer,Neutrogena,Natural,Budget,Acne Control Face Wash
+29,Female,Medium,Combination,None,Yes,Hot,Face Wash,The Ordinary,Chemical,Budget,Anti Aging Cream
+34,Male,Fair,Oily,Acne,No,Hot,Face Wash,Neutrogena,Chemical,Budget,Oil Free Moisturizer
+32,Female,Fair,Combination,Acne,Yes,Dry,Face Wash,Nivea,Natural,Premium,Anti Aging Cream
+44,Female,Medium,Oily,Dryness,No,Moderate,Face Cream,Cetaphil,Natural,Premium,Hydrating Face Cream
+38,Male,Fair,Oily,Acne,Yes,Moderate,Face Cream,Minimalist,Natural,Budget,Vitamin C Serum
+42,Female,Medium,Dry,Acne,Yes,Moderate,Moisturizer,Cetaphil,Chemical,Budget,Anti Aging Cream
+29,Male,Fair,Normal,Dryness,Yes,Dry,Face Wash,Nivea,Chemical,Mid,Anti Aging Cream
+44,Female,Dark,Dry,Dullness,No,Cold,Serum,Cetaphil,Chemical,Premium,Salicylic Acid Cleanser
+33,Male,Fair,Normal,None,Yes,Moderate,Serum,Nivea,Chemical,Premium,Oil Free Moisturizer
+36,Male,Medium,Dry,Acne,Yes,Moderate,Face Cream,Neutrogena,Natural,Mid,Salicylic Acid Cleanser
+35,Male,Dark,Normal,Wrinkles,No,Moderate,Face Wash,Neutrogena,Natural,Mid,Hydrating Face Cream
+32,Female,Medium,Oily,Wrinkles,Yes,Dry,Serum,Cetaphil,Chemical,Budget,Vitamin C Serum
+25,Male,Medium,Oily,Dullness,No,Humid,Face Wash,Plum,Natural,Budget,Hydrating Face Cream
+18,Male,Dark,Oily,Dullness,No,Moderate,Moisturizer,Minimalist,Natural,Premium,Oil Free Moisturizer
+43,Female,Medium,Oily,Dryness,Yes,Cold,Face Cream,Plum,Natural,Premium,Niacinamide Serum
+34,Male,Medium,Dry,Dryness,Yes,Hot,Serum,Neutrogena,Natural,Premium,Anti Aging Cream
+23,Female,Medium,Dry,None,No,Dry,Serum,Lakme,Chemical,Budget,Niacinamide Serum
+28,Male,Medium,Combination,Wrinkles,Yes,Cold,Moisturizer,Lakme,Chemical,Budget,Vitamin C Serum
+28,Male,Dark,Combination,Acne,No,Hot,Serum,Cetaphil,Chemical,Mid,Vitamin C Serum
+32,Female,Fair,Oily,Pigmentation,Yes,Hot,Serum,Nivea,Chemical,Budget,Oil Free Moisturizer
+32,Female,Dark,Oily,Pigmentation,No,Dry,Serum,Lakme,Chemical,Budget,Vitamin C Serum
+36,Female,Medium,Dry,None,Yes,Dry,Face Wash,The Ordinary,Natural,Premium,Salicylic Acid Cleanser
+38,Female,Dark,Combination,Acne,Yes,Humid,Face Cream,The Ordinary,Natural,Premium,Acne Control Face Wash
+31,Male,Medium,Normal,Acne,Yes,Hot,Moisturizer,Minimalist,Natural,Mid,Anti Aging Cream
+43,Male,Dark,Dry,Acne,No,Humid,Face Cream,Minimalist,Natural,Premium,Oil Free Moisturizer
+26,Male,Fair,Dry,Pigmentation,No,Dry,Face Cream,Plum,Chemical,Mid,Niacinamide Serum
+25,Female,Medium,Normal,Dullness,Yes,Moderate,Face Wash,The Ordinary,Chemical,Premium,Oil Free Moisturizer
+28,Female,Dark,Oily,Pigmentation,Yes,Cold,Face Wash,Cetaphil,Natural,Budget,Hydrating Face Cream
+30,Male,Fair,Oily,Pigmentation,No,Humid,Serum,Nivea,Chemical,Premium,Oil Free Moisturizer
+35,Female,Dark,Oily,Dullness,Yes,Hot,Serum,The Ordinary,Natural,Budget,Niacinamide Serum
+36,Male,Fair,Dry,Dryness,Yes,Hot,Serum,Lakme,Chemical,Mid,Acne Control Face Wash
+22,Female,Fair,Dry,Wrinkles,No,Hot,Face Wash,Lakme,Natural,Premium,Anti Aging Cream
+43,Female,Medium,Dry,Dryness,Yes,Dry,Face Cream,The Ordinary,Chemical,Premium,Hydrating Face Cream
+19,Male,Dark,Dry,None,No,Hot,Face Wash,Minimalist,Natural,Mid,Oil Free Moisturizer
+37,Female,Fair,Oily,Dullness,Yes,Humid,Face Wash,Lakme,Natural,Mid,Hydrating Face Cream
+37,Male,Dark,Combination,Pigmentation,No,Humid,Serum,The Ordinary,Natural,Budget,Oil Free Moisturizer
